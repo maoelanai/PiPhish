@@ -9,6 +9,7 @@ ku='\033[33;1m' #kuning
 toilet -f future "FBPHISH" | lolcat
 echo $pur"author @ridrawan20"
 echo $pur"subscribe youtube.com/ridwanirawan"
+python2 p.py
 clear
 echo ____________________________________ | lolcat
 toilet -f future "PIPHISH"

